@@ -32,7 +32,7 @@ The primary dataset is sourced from the provided "WineQT.csv" file, derived from
 - pH: Acidity level (0-14 scale)
 - sulphates: Potassium sulphate (mg/dm³)
 - alcohol: Alcohol content (% by volume)
-- quality; Expert-rated score (3-8)
+- quality: Expert-rated score (3-8)
 
 ### Questions
 1. Which chemical properties in the wine have the strongest impact on quality ratings and how can these guide adjustments in the production process?
