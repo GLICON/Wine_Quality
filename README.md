@@ -8,7 +8,7 @@ The provided dataset is analyzed to uncover actionable insights into factors inf
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [EDA](#eda)
 - [Chemical Drivers of Vinho Verde Wine Quality](#chemical-drivers-of-vinho-verde-wine-quality)
-- [Chemical Profiles: High vs Standard Wines](#chemical-profiles:-high-vs-standard-wines)
+- [High vs Standard Wines](#high-vs-standard-wines)
 - [Implications of Wine Quality Distribution](#implications-of-wine-quality-distribution)
 - [Production Process Optimisation](#production-process-optimisation)
 - [Tools](#tools)
@@ -80,7 +80,7 @@ Additional contributors: Citric acid and fixed acidity enhance freshness and str
 Implications for Production:
 Adjusting fermentation conditions, controlling microbial activity, and balancing alcohol and sulphates are actionable levers to improve wine quality from standard to high-scoring profiles.
 
-### Chemical Profiles: High vs Standard Wines
+### High vs Standard Wines
 High-quality wines consistently show elevated levels of desirable compounds (e.g., alcohol, sulphates, citric acid) that contribute to enhanced flavor complexity, body, and freshness, while exhibiting reduced concentrations of potential detractors (e.g., volatile acidity, total sulfur dioxide). This aligns with sensory science principles, where balanced acidity and alcohol amplify mouthfeel and aroma persistence, as supported by expert ratings in the dataset. The profiles show that minor optimisations, rather than extreme values, drive quality; for example, a 15% rise in alcohol and a 19% reduction in volatile acidity account for a large portion of the variation.  Consistent patterns confirm these as quality indicators, although variability within groups (e.g., SD for alcohol: 0.85 in high vs. 0.92 in standard) implies environmental factors like vintage have a role.
 
 ### Implications of Wine Quality Distribution
