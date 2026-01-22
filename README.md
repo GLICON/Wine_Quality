@@ -1,9 +1,7 @@
 # Wine Quality
-The provided dataset is analyzed to uncover actionable insights into factors influencing wine quality. The dataset is related to red variants of the Portuguese "Vinho Verde" wine.
+The provided dataset is analyzed to uncover actionable insights into factors influencing red variants of the Portuguese "Vinho Verde" wine, with focus on physiochemical properties such as alcohol, acidity and sulphates. The major objective is to provide data-driven recommendations for wine producers to optimize quality, enhance production processes and inform marketing strategies.
 
 ## Table of Contents
-
-- [Overview](overview)
 - [Project Focus](#project-focus)
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [EDA](#eda)
@@ -13,11 +11,7 @@ The provided dataset is analyzed to uncover actionable insights into factors inf
 - [Production Process Optimisation](#production-process-optimisation)
 - [Tools](#tools)
 - [Data Sources](#data-sources)
-- [References](#references)
 
-
-### Overview
-This project analyzes the Wine Quality datasets to uncover actionable insights into factors influencing wine quality, with focus on physiochemical properties such as alcohol, acidity and sulphates. The major objective is to provide data-driven recommendations for wine producers to optimize quality, enhance production processes and inform marketing strategies.
 
 ### Project Focus
 - Key Drivers of Quality: Which chemical attributes most strongly influence wine ratings, and how can this guide production optimization?
@@ -136,5 +130,4 @@ The primary dataset is sourced from the provided "WineQT.csv" file, derived from
 - alcohol: Alcohol content (% by volume)
 - quality: Expert-rated score (3-8)
 
-### References
 This dataset is pubicly available on Kaggle and UCI machine learning repository, https://archive.ics.uci.edu/ml/datasets/wine+quality
