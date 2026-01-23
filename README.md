@@ -21,16 +21,14 @@ The provided dataset is analyzed to uncover actionable insights into factors inf
 ### Data Cleaning and Preparation
 In the initial data preparation phase, the following tasks were performed as listed below:
 
-- Rearranged arrangement of columns: placed id as the first column in the dataset
 - Checked for missing or null values:No missing value was found.
 - Ensured numeric consistency by handling inconsistent data: Columns containing floats were rounded to the best decimal poimt for accurate computations.
-- Checked for duplicates: No duplicates were found
 - Checked for outliers:
 Box and Whisker plot, and IQR formula are used to check for outliers in the physicochemical properties of red wine variants
 
 <img width="415" height="310" alt="WQ_Box plot and whiskers for outliers" src="https://github.com/user-attachments/assets/93f1cef3-9c80-46c4-9529-63288a24b167" />
 
-The IQR formula is used in finding the outliers. The number of outliers are shown below:
+The IQR formula is used in finding the outliers and are shown below:
 fixed acidity (44)
 volatile acidity (15)
 citric acid
